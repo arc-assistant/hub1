@@ -1,16 +1,33 @@
 <div align="center">
-  <img src="../static/logo-dark.png" width="200px" />
+  <img src="../static/logo-dark.png" width="200px" height="200px" alt="ARC Logo" />
   <h1>ARC: hub1</h1>
-  <b>Open source code for Arc’s hub1</b>
+  <p><b>A lightweight, open-source smart assistant powered by ESP32.</b></p>
+
+  <a href="https://github.com"><img src="https://img.shields.io" alt="GitHub stars"></a>
+  <a href="https://github.com"><img src="https://img.shields.io" alt="GitHub forks"></a>
+  <a href="https://github.com"><img src="https://img.shields.io" alt="License"></a>
+  <a href="https://github.com"><img src="https://img.shields.io" alt="GitHub issues"></a>
 </div>
 
 ---
 
-## What is hub1
+## 📖 Overview
+**hub1** is the debut release of the Arc hub ecosystem. It is designed to be a lightweight, privacy-focused smart assistant built on the **ESP32** microcontroller. 
 
-hub1 is the first Arc hub release. This first smart assisant is lightweight and developed open-source. It is developed using an esp32 board and more components. Feel free to use the code in this repo, but check out [the license](LICENSE) first
+### Key Features
+*   **Lightweight:** Optimized for low-power ESP32 hardware.
+*   **Open Source:** Fully transparent and community-driven.
+*   **Extensible:** Easy to integrate with additional sensors and peripherals.
 
+## 🛠️ Hardware Requirements
+To get started, you will typically need:
+*   **Microcontroller:** ESP32 Development Board.
+*   **Audio:** I2S Microphone and Speaker/Amplifier.
+*   **Connectivity:** 2.4GHz Wi-Fi.
 
-## License
+## 🚀 Quick Start
+1.  **Get the Source:** Download or browse the code at [://github.com](https://://github.com).
+2.  **Flash Firmware:** Use [PlatformIO](https://platformio.org) or the [Arduino IDE](https://www.arduino.cc) to build and upload.
 
-ARC: hub1 is under the [MIT License](LICENSE).
+## 📜 License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
