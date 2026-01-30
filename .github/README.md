@@ -24,17 +24,16 @@
 *   **Extensible:** Easy to integrate with additional sensors and peripherals.
 
 
-## 🛠️ Hardware Requirements
+## 🛠️ Hardware
 
-To get started, you will typically need:
+In hub1, we currently use:
 *   **Microcontroller:** ESP32 Development Board.
-*   **Audio:** I2S Microphone and Speaker/Amplifier.
 *   **Connectivity:** 2.4GHz Wi-Fi.
 
 
 ## 🚀 Quick Start
 
-1.  **Get the Source:** Download or browse the code at [://github.com](https://://github.com).
+1.  **Get the Source:** Download the code by clicking [here](https://github.com/arc-assistant/hub1/archive/refs/heads/main.zip).
 2.  **Flash Firmware:** Use [PlatformIO](https://platformio.org) or the [Arduino IDE](https://www.arduino.cc) to build and upload.
 
 
