@@ -1,0 +1,1 @@
+// camera.ino placeholder
