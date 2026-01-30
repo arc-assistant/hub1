@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../static/logo-dark.png" width="200px" height="200px" alt="ARC Logo" />
+  <a href="#"><img src="../static/logo-dark.png" width="200px" height="200px" alt="ARC Logo" /></a>
   <h1>ARC: hub1</h1>
   <p><b>A lightweight, open-source smart assistant powered by ESP32.</b></p>
 
