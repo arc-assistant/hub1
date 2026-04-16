@@ -1,3 +1,3 @@
 // WiFi credentials
-const char* ssid       = "Wokwi-GUEST";
-const char* password   = "";
+const char* ssid       = "YOUR_SSID";
+const char* password   = "YOUR_PASSWORD";
